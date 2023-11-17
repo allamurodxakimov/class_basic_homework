@@ -6,4 +6,4 @@ class Person :
         self.name = name
         self.age = age 
 data = Person("Xakimov Allamurod",18)
-print(data.name,data.age,"yosh")
+# print(data.name,data.age)
